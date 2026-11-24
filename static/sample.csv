@@ -1,0 +1,11 @@
+Region,Sales,Units
+North,1200,12
+South,850,8
+West,1700,17
+East,950,9
+North,1400,14
+South,1100,11
+West,1900,19
+East,700,7
+North,1200,12
+South,,6
